@@ -140,6 +140,7 @@ rules:
   - RULE-SET,apple,DIRECT
   - RULE-SET,google,DIRECT
   - RULE-SET,proxy,🚀 节点选择
+  - RULE-SET,bilibili,📺 哔哩哔哩
   - RULE-SET,greatfire,🚀 节点选择
   - RULE-SET,gfw,🚀 节点选择
   - RULE-SET,telegramcidr,🚀 节点选择
