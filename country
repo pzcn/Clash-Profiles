@@ -6,7 +6,7 @@ custom_proxy_group=🇺🇸美国`select`[]🇺🇸美国-负载均衡`(美|US)
 custom_proxy_group=🇸🇬新加坡`select`[]🇸🇬新加坡-负载均衡`(新加坡|狮城|SG)
 custom_proxy_group=🇺🇳其他`select`^(?!.*(港|湾|日|美|HK|TW|JP|US|新加坡|狮城|SG)).*$
 
-custom_proxy_group=🇭🇰香港-负载均衡`load-balance`(港|HK)`http://www.gstatic.com/generate_204`300,5,100
+custom_proxy_group=🇭🇰香港-负载均衡`url-test`(港|HK)`http://www.gstatic.com/generate_204`300,5,100
 custom_proxy_group=🇨🇳台湾-负载均衡`load-balance`(台|TW)`http://www.gstatic.com/generate_204`300,5,100
 custom_proxy_group=🇯🇵日本-负载均衡`load-balance`(日|JP)`http://www.gstatic.com/generate_204`300,5,100
 custom_proxy_group=🇺🇸美国-负载均衡`load-balance`(美|US)`http://www.gstatic.com/generate_204`300,5,100
